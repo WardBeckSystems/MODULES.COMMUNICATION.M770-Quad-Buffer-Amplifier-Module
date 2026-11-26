@@ -1,0 +1,75 @@
+{
+ "drawing": "Modules/COMMUNICATION/M770/SCHEMATICS/19xx - M770 - 770-06-001.jpg",
+ "version": 1,
+ "trace": "_traces/015b375d9abd25f9.svg",
+ "sheet": {
+  "number": "770-06-001",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1414, 2000],
+  "mm": [305.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 1.5, 286.9, 430.3],
+ "outlines": {
+  "line": {"rings": 1424, "straight": {"n": 9798, "mm": 12603.1}, "curved": {"n": 2963, "mm": 2888.9}},
+  "text": {"rings": 791, "straight": {"n": 5230, "mm": 4114.5}, "curved": {"n": 1682, "mm": 1633.5}}
+ },
+ "circles": [
+  {"c": [167.2, 390.0], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [92.2, 294.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [120.6, 389.8], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.1},
+  {"c": [165.1, 163.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [168.0, 294.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [89.3, 163.5], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [167.1, 390.1], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [18.1, 61.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [18.5, 25.5], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [18.2, 51.7], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [106.8, 192.4], "r": 0.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [107.0, 289.5, 116.4, 296.9], "w": 9.3, "h": 7.3, "from": "ring"},
+  {"mm": [86.4, 247.4, 103.4, 255.2], "w": 17.1, "h": 7.8, "from": "ring", "words": ["Is"]},
+  {"mm": [172.1, 190.6, 189.1, 198.2], "w": 17.1, "h": 7.6, "from": "ring"},
+  {"mm": [106.2, 134.3, 108.4, 138.0], "w": 2.2, "h": 3.7, "from": "ring"},
+  {"mm": [159.6, 117.4, 176.4, 125.1], "w": 16.8, "h": 7.6, "from": "ring"},
+  {"mm": [83.6, 116.6, 100.4, 124.6], "w": 16.8, "h": 8.0, "from": "ring"},
+  {"mm": [8.4, 79.5, 11.4, 81.8], "w": 3.0, "h": 2.4, "from": "ring"},
+  {"mm": [38.2, 66.3, 41.5, 71.3], "w": 3.3, "h": 5.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 16,
+  "lines": [
+   {"mm": [127.6, 388.4, 162.8, 393.7], "text": "WBS 14-027"},
+   {"mm": [129.3, 383.4, 142.3, 387.3], "text": "CANADA"},
+   {"mm": [78.6, 325.1, 84.0, 332.1], "text": "32"},
+   {"mm": [117.2, 308.3, 123.7, 316.5], "text": "82"},
+   {"mm": [117.2, 294.1, 130.2, 309.6], "text": "81"},
+   {"mm": [155.4, 259.1, 184.8, 274.7], "text": "Vip 01"},
+   {"mm": [93.7, 248.1, 98.5, 254.5], "text": "Is"},
+   {"mm": [122.0, 247.9, 133.9, 254.3], "text": "8 11"},
+   {"mm": [168.6, 248.5, 173.4, 255.5], "text": "je"},
+   {"mm": [76.4, 164.9, 93.1, 184.4], "text": "Ju"},
+   {"mm": [114.6, 178.3, 120.0, 186.0], "text": "82"},
+   {"mm": [195.2, 98.5, 202.1, 103.7], "text": "03"},
+   {"mm": [139.5, 55.3, 148.1, 60.1], "text": "1346"},
+   {"mm": [160.0, 55.9, 168.0, 60.2], "text": "EE6"},
+   {"mm": [181.6, 55.3, 187.6, 60.5], "text": "06"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout 770-06-001, size B (assumed) 305 × 432 mm, 1414 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–287 mm across, 2–430 mm up",
+  "- **Outlines:** line 1,424 rings, 9,798 straight (12,603 mm) / 2,963 curved (2,889 mm); text 791 rings, 5,230 straight (4,114 mm) / 1,682 curved (1,634 mm)",
+  "- **Circles and arcs:** 11 circles, 0 arcs; largest r 3.4 @ (167.2, 390.0), r 2.5 @ (92.2, 294.0), r 2.4 @ (120.6, 389.8), r 2.2 @ (165.1, 163.8)",
+  "- **Closed boxes:** 8; named: Is",
+  "- **Words (OCR):** 16 in 15 lines: WBS 14-027 · CANADA · 32 · 82 · 81 · Vip 01 · Is · 8 11 · je · Ju · 82 · 03"
+ ]
+}
