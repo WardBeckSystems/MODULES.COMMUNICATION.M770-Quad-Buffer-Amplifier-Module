@@ -22,7 +22,7 @@ Wiki page: [M770](../../../../PAGES/M770.md)
 - **Dots (junctions):** 5
 - **Wiring (first pass):** 204 connected wire groups from 1,708 runs, 7 dotted junctions
 
-Every curve, box, word and wire group: [19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD (traced).json](../SCHEMATICS/19xx%20-%20M770%20-%20770-02-001%20-%20RIJ%20RIJS%20GAIN%20TRIM%20IELD%20(traced).json) (the CAD file: `19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD (traced).json](../SCHEMATICS/19xx%20-%20M770%20-%20770-02-001%20-%20RIJ%20RIJS%20GAIN%20TRIM%20IELD%20%28traced%29.json) (the CAD file: `19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD (traced).dxf`).
 
 ## Full text
 

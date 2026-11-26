@@ -32,7 +32,7 @@ M770 quad buffer amplifier module functional Title block at bottom left reading 
 - **Closed boxes:** 10
 - **Wiring (first pass):** 128 connected wire groups from 333 runs
 
-Every curve, box, word and wire group: [19xx - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20770-01-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20770-01-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -33,7 +33,7 @@ M770 quad buffer amplifier module schematic Title block at bottom left reading s
 - **Dots (junctions):** 4
 - **Wiring (first pass):** 211 connected wire groups from 1,745 runs, 4 dotted junctions
 
-Every curve, box, word and wire group: [19xx - 770-02-001 - QUAD BUFFER AMPLIFIER MODULE SCHEMATIC - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20770-02-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20SCHEMATIC%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 770-02-001 - QUAD BUFFER AMPLIFIER MODULE SCHEMATIC - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 770-02-001 - QUAD BUFFER AMPLIFIER MODULE SCHEMATIC - ISS 3 (traced).json](../SCHEMATICS/19xx%20-%20770-02-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20SCHEMATIC%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 770-02-001 - QUAD BUFFER AMPLIFIER MODULE SCHEMATIC - ISS 3 (traced).dxf`).
 
 ## Full text
 

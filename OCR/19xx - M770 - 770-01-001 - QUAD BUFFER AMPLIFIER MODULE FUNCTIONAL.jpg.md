@@ -21,7 +21,7 @@ Wiki page: [M770](../../../../PAGES/M770.md)
 - **Closed boxes:** 7
 - **Wiring (first pass):** 119 connected wire groups from 282 runs
 
-Every curve, box, word and wire group: [19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M770%20-%20770-01-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M770%20-%20770-01-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL (traced).dxf`).
 
 ## Full text
 
