@@ -1,17 +1,17 @@
-# M770 · Communication
+# M770 Quad Buffer Amplifier Module · Communication
 
 Ward-Beck Systems M770. Wiki page: [M770 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M770.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 20 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 0 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 0 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 5 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
 ## Schematics
 
@@ -21,7 +21,7 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUUZGQzhBX0ZWU00/view?resourcekey=0-cVvhArcJZ5W1UDz5riCcUg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUUZGQzhBX0ZWU00&resourcekey=0-cVvhArcJZ5W1UDz5riCcUg" width="240" alt="19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL.jpg"></a><br><sub>19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL · <a href="SCHEMATICS/19xx%20-%20M770%20-%20770-01-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20FUNCTIONAL%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV09STElLenhOUzA/view?resourcekey=0-Tj-VNkXdUquxgt5xaEfxDw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV09STElLenhOUzA&resourcekey=0-Tj-VNkXdUquxgt5xaEfxDw" width="240" alt="19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD.jpg"></a><br><sub>19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD · <a href="SCHEMATICS/19xx%20-%20M770%20-%20770-02-001%20-%20RIJ%20RIJS%20GAIN%20TRIM%20IELD%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWURNeFZsV2p4cGs/view?resourcekey=0-ltDcC1zJ7m9UGOkx8TEGFA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWURNeFZsV2p4cGs&resourcekey=0-ltDcC1zJ7m9UGOkx8TEGFA" width="240" alt="19xx - M770 - 770-06-001.jpg"></a><br><sub>19xx - M770 - 770-06-001 · <a href="SCHEMATICS/19xx%20-%20M770%20-%20770-06-001%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 770-02-001 - QUAD BUFFER AMPLIFIER MODULE SCHEMATIC - ISS 3.jpg`
+Not on Google Drive yet: `19xx - 770-02-001 - QUAD BUFFER AMPLIFIER MODULE SCHEMATIC - ISS 3.jpg`
 
 ## KiCad
 
@@ -32,6 +32,11 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL.kicad_sch](KICAD/19xx%20-%20M770%20-%20770-01-001%20-%20QUAD%20BUFFER%20AMPLIFIER%20MODULE%20FUNCTIONAL.kicad_sch)
 - [19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD.kicad_sch](KICAD/19xx%20-%20M770%20-%20770-02-001%20-%20RIJ%20RIJS%20GAIN%20TRIM%20IELD.kicad_sch)
 - [M770.kicad_sym](KICAD/M770.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
