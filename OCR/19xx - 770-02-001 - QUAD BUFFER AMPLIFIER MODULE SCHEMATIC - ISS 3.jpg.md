@@ -1,5 +1,5 @@
 # 19xx - 770-02-001 - QUAD BUFFER AMPLIFIER MODULE SCHEMATIC - ISS 3.jpg
-Wiki page: [M770](../../../../PAGES/M770.md)
+Wiki page: [M770](../)
 
 
 - **Year:** unknown (title block (read by eye))

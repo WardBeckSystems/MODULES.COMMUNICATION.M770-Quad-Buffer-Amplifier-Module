@@ -1,6 +1,6 @@
 # M770 Quad Buffer Amplifier Module · Communication
 
-Ward-Beck Systems M770. Wiki page: [M770 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M770.html)
+Ward-Beck Systems M770. Wiki page: [M770 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M770-Quad-Buffer-Amplifier-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

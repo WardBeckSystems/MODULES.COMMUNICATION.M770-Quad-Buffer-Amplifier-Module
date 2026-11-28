@@ -1,5 +1,5 @@
 # 19xx - M770 - 770-01-001 - QUAD BUFFER AMPLIFIER MODULE FUNCTIONAL.jpg
-Wiki page: [M770](../../../../PAGES/M770.md)
+Wiki page: [M770](../)
 
 
 - **Year:** unknown (unknown)

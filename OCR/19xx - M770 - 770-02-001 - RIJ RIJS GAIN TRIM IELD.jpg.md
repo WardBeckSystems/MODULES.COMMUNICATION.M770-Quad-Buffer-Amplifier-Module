@@ -1,5 +1,5 @@
 # 19xx - M770 - 770-02-001 - RIJ RIJS GAIN TRIM IELD.jpg
-Wiki page: [M770](../../../../PAGES/M770.md)
+Wiki page: [M770](../)
 
 
 - **Year:** unknown (unknown)
